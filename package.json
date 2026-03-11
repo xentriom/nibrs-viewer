@@ -2,25 +2,26 @@
   "name": "nibrs-viewer",
   "version": "1.0.0",
   "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/xentriom/nibrs-viewer#readme",
+  "bugs": {
+    "url": "https://github.com/xentriom/nibrs-viewer/issues"
+  },
+  "license": "ISC",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xentriom/nibrs-viewer.git"
+  },
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "oxlint",
+    "fmt": "oxfmt"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xentriom/nibrs-viewer.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module",
-  "bugs": {
-    "url": "https://github.com/xentriom/nibrs-viewer/issues"
-  },
-  "homepage": "https://github.com/xentriom/nibrs-viewer#readme",
   "dependencies": {
     "@base-ui/react": "^1.2.0",
     "class-variance-authority": "^0.7.1",
@@ -38,6 +39,8 @@
     "@types/node": "^25.4.0",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
+    "oxfmt": "^0.37.0",
+    "oxlint": "^1.52.0",
     "tailwindcss": "^4.2.1",
     "typescript": "^5.9.3"
   }
