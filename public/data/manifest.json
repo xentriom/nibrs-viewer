@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-03-23T20:36:45.294Z",
+  "years": [
+    {
+      "year": 2020,
+      "path": "/data/2020.json",
+      "agencies": 101,
+      "incidents": 40750,
+      "offenses": 47427,
+      "updatedAt": "2026-03-23T20:36:45.335Z"
+    },
+    {
+      "year": 2021,
+      "path": "/data/2021.json",
+      "agencies": 124,
+      "incidents": 108796,
+      "offenses": 127076,
+      "updatedAt": "2026-03-23T20:36:45.643Z"
+    },
+    {
+      "year": 2022,
+      "path": "/data/2022.json",
+      "agencies": 149,
+      "incidents": 145000,
+      "offenses": 174259,
+      "updatedAt": "2026-03-23T20:36:46.010Z"
+    },
+    {
+      "year": 2023,
+      "path": "/data/2023.json",
+      "agencies": 183,
+      "incidents": 686764,
+      "offenses": 783107,
+      "updatedAt": "2026-03-23T20:36:46.413Z"
+    },
+    {
+      "year": 2024,
+      "path": "/data/2024.json",
+      "agencies": 194,
+      "incidents": 688700,
+      "offenses": 778149,
+      "updatedAt": "2026-03-23T20:36:46.938Z"
+    }
+  ]
+}
