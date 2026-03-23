@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T20:36:45.294Z",
+  "generatedAt": "2026-03-23T20:53:43.521Z",
   "years": [
     {
       "year": 2020,
@@ -7,7 +7,7 @@
       "agencies": 101,
       "incidents": 40750,
       "offenses": 47427,
-      "updatedAt": "2026-03-23T20:36:45.335Z"
+      "updatedAt": "2026-03-23T20:53:43.527Z"
     },
     {
       "year": 2021,
@@ -15,7 +15,7 @@
       "agencies": 124,
       "incidents": 108796,
       "offenses": 127076,
-      "updatedAt": "2026-03-23T20:36:45.643Z"
+      "updatedAt": "2026-03-23T20:53:43.806Z"
     },
     {
       "year": 2022,
@@ -23,7 +23,7 @@
       "agencies": 149,
       "incidents": 145000,
       "offenses": 174259,
-      "updatedAt": "2026-03-23T20:36:46.010Z"
+      "updatedAt": "2026-03-23T20:53:44.197Z"
     },
     {
       "year": 2023,
@@ -31,7 +31,7 @@
       "agencies": 183,
       "incidents": 686764,
       "offenses": 783107,
-      "updatedAt": "2026-03-23T20:36:46.413Z"
+      "updatedAt": "2026-03-23T20:53:44.594Z"
     },
     {
       "year": 2024,
@@ -39,7 +39,7 @@
       "agencies": 194,
       "incidents": 688700,
       "offenses": 778149,
-      "updatedAt": "2026-03-23T20:36:46.938Z"
+      "updatedAt": "2026-03-23T20:53:45.098Z"
     }
   ]
 }
