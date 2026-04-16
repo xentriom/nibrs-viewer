@@ -1,0 +1,518 @@
+[
+  {
+    "offenseCode": "09A",
+    "offenseName": "Murder and Nonnegligent Manslaughter",
+    "offenseCategoryName": "Homicide Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "09B",
+    "offenseName": "Negligent Manslaughter",
+    "offenseCategoryName": "Homicide Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "09C",
+    "offenseName": "Justifiable Homicide",
+    "offenseCategoryName": "Homicide Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "100",
+    "offenseName": "Kidnapping/Abduction",
+    "offenseCategoryName": "Kidnapping/Abduction",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "101",
+    "offenseName": "Treason",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "103",
+    "offenseName": "Espionage",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "11A",
+    "offenseName": "Rape",
+    "offenseCategoryName": "Sex Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "11B",
+    "offenseName": "Sodomy",
+    "offenseCategoryName": "Sex Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "11C",
+    "offenseName": "Sexual Assault With An Object",
+    "offenseCategoryName": "Sex Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "11D",
+    "offenseName": "Fondling",
+    "offenseCategoryName": "Sex Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "120",
+    "offenseName": "Robbery",
+    "offenseCategoryName": "Robbery",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "13A",
+    "offenseName": "Aggravated Assault",
+    "offenseCategoryName": "Assault Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "13B",
+    "offenseName": "Simple Assault",
+    "offenseCategoryName": "Assault Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "13C",
+    "offenseName": "Intimidation",
+    "offenseCategoryName": "Assault Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "200",
+    "offenseName": "Arson",
+    "offenseCategoryName": "Arson",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "210",
+    "offenseName": "Extortion/Blackmail",
+    "offenseCategoryName": "Extortion/Blackmail",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "220",
+    "offenseName": "Burglary/Breaking & Entering",
+    "offenseCategoryName": "Burglary/Breaking & Entering",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "23*",
+    "offenseName": "Not Specified",
+    "offenseCategoryName": "Larceny/Theft Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "23A",
+    "offenseName": "Pocket-picking",
+    "offenseCategoryName": "Larceny/Theft Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "23B",
+    "offenseName": "Purse-snatching",
+    "offenseCategoryName": "Larceny/Theft Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "23C",
+    "offenseName": "Shoplifting",
+    "offenseCategoryName": "Larceny/Theft Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "23D",
+    "offenseName": "Theft From Building",
+    "offenseCategoryName": "Larceny/Theft Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "23E",
+    "offenseName": "Theft From Coin-Operated Machine or Device",
+    "offenseCategoryName": "Larceny/Theft Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "23F",
+    "offenseName": "Theft From Motor Vehicle",
+    "offenseCategoryName": "Larceny/Theft Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "23G",
+    "offenseName": "Theft of Motor Vehicle Parts or Accessories",
+    "offenseCategoryName": "Larceny/Theft Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "23H",
+    "offenseName": "All Other Larceny",
+    "offenseCategoryName": "Larceny/Theft Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "240",
+    "offenseName": "Motor Vehicle Theft",
+    "offenseCategoryName": "Motor Vehicle Theft",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "250",
+    "offenseName": "Counterfeiting/Forgery",
+    "offenseCategoryName": "Counterfeiting/Forgery",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "26A",
+    "offenseName": "False Pretenses/Swindle/Confidence Game",
+    "offenseCategoryName": "Fraud Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "26B",
+    "offenseName": "Credit Card/Automated Teller Machine Fraud",
+    "offenseCategoryName": "Fraud Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "26C",
+    "offenseName": "Impersonation",
+    "offenseCategoryName": "Fraud Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "26D",
+    "offenseName": "Welfare Fraud",
+    "offenseCategoryName": "Fraud Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "26E",
+    "offenseName": "Wire Fraud",
+    "offenseCategoryName": "Fraud Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "26F",
+    "offenseName": "Identity Theft",
+    "offenseCategoryName": "Fraud Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "26G",
+    "offenseName": "Hacking/Computer Invasion",
+    "offenseCategoryName": "Fraud Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "26H",
+    "offenseName": "Money Laundering",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "270",
+    "offenseName": "Embezzlement",
+    "offenseCategoryName": "Embezzlement",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "280",
+    "offenseName": "Stolen Property Offenses",
+    "offenseCategoryName": "Stolen Property Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "290",
+    "offenseName": "Destruction/Damage/Vandalism of Property",
+    "offenseCategoryName": "Destruction/Damage/Vandalism of Property",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "30A",
+    "offenseName": "Illegal Entry into the United States",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "30B",
+    "offenseName": "False Citizenship",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "30C",
+    "offenseName": "Smuggling Aliens",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "30D",
+    "offenseName": "Re-entry after Deportation",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "35A",
+    "offenseName": "Drug/Narcotic Violations",
+    "offenseCategoryName": "Drug/Narcotic Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "35B",
+    "offenseName": "Drug Equipment Violations",
+    "offenseCategoryName": "Drug/Narcotic Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "360",
+    "offenseName": "Failure to Register as a Sex Offender",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "36A",
+    "offenseName": "Incest",
+    "offenseCategoryName": "Sex Offenses, Non-forcible",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "36B",
+    "offenseName": "Statutory Rape",
+    "offenseCategoryName": "Sex Offenses, Non-forcible",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "370",
+    "offenseName": "Pornography/Obscene Material",
+    "offenseCategoryName": "Pornography/Obscene Material",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "39A",
+    "offenseName": "Betting/Wagering",
+    "offenseCategoryName": "Gambling Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "39B",
+    "offenseName": "Operating/Promoting/Assisting Gambling",
+    "offenseCategoryName": "Gambling Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "39C",
+    "offenseName": "Gambling Equipment Violation",
+    "offenseCategoryName": "Gambling Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "39D",
+    "offenseName": "Sports Tampering",
+    "offenseCategoryName": "Gambling Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "40A",
+    "offenseName": "Prostitution",
+    "offenseCategoryName": "Prostitution Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "40B",
+    "offenseName": "Assisting or Promoting Prostitution",
+    "offenseCategoryName": "Prostitution Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "40C",
+    "offenseName": "Purchasing Prostitution",
+    "offenseCategoryName": "Prostitution Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "49A",
+    "offenseName": "Harboring Escapee/Concealing from Arrest",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "49B",
+    "offenseName": "Flight to Avoid Prosecution",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "49C",
+    "offenseName": "Flight to Avoid Deportation",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "510",
+    "offenseName": "Bribery",
+    "offenseCategoryName": "Bribery",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "520",
+    "offenseName": "Weapon Law Violations",
+    "offenseCategoryName": "Weapon Law Violations",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "521",
+    "offenseName": "Violation of National Firearm Act of 1934",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "522",
+    "offenseName": "Weapons of Mass Destruction",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "526",
+    "offenseName": "Explosives Violation",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "58A",
+    "offenseName": "Import Violations",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "58B",
+    "offenseName": "Export Violations",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "61A",
+    "offenseName": "Federal Liquor Offenses",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "61B",
+    "offenseName": "Federal Tobacco Offenses",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "620",
+    "offenseName": "Wildlife Trafficking",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "64A",
+    "offenseName": "Human Trafficking, Commercial Sex Acts",
+    "offenseCategoryName": "Human Trafficking",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "64B",
+    "offenseName": "Human Trafficking, Involuntary Servitude",
+    "offenseCategoryName": "Human Trafficking",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "720",
+    "offenseName": "Animal Cruelty",
+    "offenseCategoryName": "Animal Cruelty",
+    "offenseGroup": "A"
+  },
+  {
+    "offenseCode": "90A",
+    "offenseName": "Bad Checks",
+    "offenseCategoryName": "Bad Checks",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90B",
+    "offenseName": "Curfew/Loitering/Vagrancy Violations",
+    "offenseCategoryName": "Curfew/Loitering/Vagrancy Violations",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90C",
+    "offenseName": "Disorderly Conduct",
+    "offenseCategoryName": "Disorderly Conduct",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90D",
+    "offenseName": "Driving Under the Influence",
+    "offenseCategoryName": "Driving Under the Influence",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90E",
+    "offenseName": "Drunkenness",
+    "offenseCategoryName": "Drunkenness",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90F",
+    "offenseName": "Family Offenses, Nonviolent",
+    "offenseCategoryName": "Family Offenses, Nonviolent",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90G",
+    "offenseName": "Liquor Law Violations",
+    "offenseCategoryName": "Liquor Law Violations",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90H",
+    "offenseName": "Peeping Tom",
+    "offenseCategoryName": "Peeping Tom",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90I",
+    "offenseName": "Runaway",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": " "
+  },
+  {
+    "offenseCode": "90J",
+    "offenseName": "Trespass of Real Property",
+    "offenseCategoryName": "Trespass of Real Property",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90K",
+    "offenseName": "Failure to Appear",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90L",
+    "offenseName": "Federal Resource Violations",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90M",
+    "offenseName": "Perjury",
+    "offenseCategoryName": "Other Offenses",
+    "offenseGroup": "B"
+  },
+  {
+    "offenseCode": "90Z",
+    "offenseName": "All Other Offenses",
+    "offenseCategoryName": "All Other Offenses",
+    "offenseGroup": "B"
+  }
+]

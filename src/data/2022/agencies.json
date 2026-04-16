@@ -1,0 +1,747 @@
+[
+  {
+    "agencyId": "12939",
+    "agencyName": "ALBANY CITY PD ALBANY",
+    "county": "ALBANY"
+  },
+  {
+    "agencyId": "12946",
+    "agencyName": "BETHLEHEM TOWN PD DELMAR",
+    "county": "ALBANY"
+  },
+  {
+    "agencyId": "12948",
+    "agencyName": "COLONIE TOWN PD LATHAM",
+    "county": "ALBANY"
+  },
+  {
+    "agencyId": "12968",
+    "agencyName": "BROOME CO SHERIFF'S DEPARTMENT BINGHAMTON",
+    "county": "BROOME"
+  },
+  {
+    "agencyId": "12969",
+    "agencyName": "BINGHAMTON CITY PD BINGHAMTON",
+    "county": "BROOME"
+  },
+  {
+    "agencyId": "12970",
+    "agencyName": "ENDICOTT VILLAGE PD ENDICOTT",
+    "county": "BROOME"
+  },
+  {
+    "agencyId": "12971",
+    "agencyName": "JOHNSON CITY VILLAGE PD JOHNSON CITY",
+    "county": "BROOME"
+  },
+  {
+    "agencyId": "12976",
+    "agencyName": "VESTAL TOWN PD VESTAL",
+    "county": "BROOME"
+  },
+  {
+    "agencyId": "12978",
+    "agencyName": "CATTARAUGUS CO SHERIFF'S DEPT LITTLE VALLEY",
+    "county": "CATTARAUGUS"
+  },
+  {
+    "agencyId": "12979",
+    "agencyName": "OLEAN CITY PD OLEAN",
+    "county": "CATTARAUGUS"
+  },
+  {
+    "agencyId": "12992",
+    "agencyName": "CAYUGA CO SHERIFF'S DEPARTMENT AUBURN",
+    "county": "CAYUGA"
+  },
+  {
+    "agencyId": "12993",
+    "agencyName": "AUBURN CITY PD AUBURN",
+    "county": "CAYUGA"
+  },
+  {
+    "agencyId": "12999",
+    "agencyName": "CHAUTAUQUA CO SHERIFF'S DEPARTMENT MAYVILLE",
+    "county": "CHAUTAUQUA"
+  },
+  {
+    "agencyId": "13000",
+    "agencyName": "DUNKIRK CITY PD DUNKIRK",
+    "county": "CHAUTAUQUA"
+  },
+  {
+    "agencyId": "13001",
+    "agencyName": "JAMESTOWN CITY PD JAMESTOWN",
+    "county": "CHAUTAUQUA"
+  },
+  {
+    "agencyId": "13002",
+    "agencyName": "LAKEWOOD BUSTI VILLAGE PD LAKEWOOD",
+    "county": "CHAUTAUQUA"
+  },
+  {
+    "agencyId": "13009",
+    "agencyName": "FREDONIA VILLAGE PD FREDONIA",
+    "county": "CHAUTAUQUA"
+  },
+  {
+    "agencyId": "13012",
+    "agencyName": "WESTFIELD VILLAGE PD WESTFIELD",
+    "county": "CHAUTAUQUA"
+  },
+  {
+    "agencyId": "13016",
+    "agencyName": "CARROLL TOWN PD FREWSBURG",
+    "county": "CHAUTAUQUA"
+  },
+  {
+    "agencyId": "13017",
+    "agencyName": "ELLICOTT TOWN PD FALCONER",
+    "county": "CHAUTAUQUA"
+  },
+  {
+    "agencyId": "13033",
+    "agencyName": "NORWICH CITY PD NORWICH",
+    "county": "CHENANGO"
+  },
+  {
+    "agencyId": "13045",
+    "agencyName": "HUDSON CITY PD HUDSON",
+    "county": "COLUMBIA"
+  },
+  {
+    "agencyId": "13056",
+    "agencyName": "CORTLAND CO SHERIFF'S DEPARTMENT CORTLAND",
+    "county": "CORTLAND"
+  },
+  {
+    "agencyId": "13057",
+    "agencyName": "CORTLAND CITY PD CORTLAND",
+    "county": "CORTLAND"
+  },
+  {
+    "agencyId": "13058",
+    "agencyName": "HOMER VILLAGE PD HOMER",
+    "county": "CORTLAND"
+  },
+  {
+    "agencyId": "13067",
+    "agencyName": "DUTCHESS CO SHERIFF'S DEPARTMENT POUGHKEEPSIE",
+    "county": "DUTCHESS"
+  },
+  {
+    "agencyId": "13068",
+    "agencyName": "BEACON CITY PD BEACON",
+    "county": "DUTCHESS"
+  },
+  {
+    "agencyId": "13072",
+    "agencyName": "FISHKILL VILLAGE PD FISHKILL",
+    "county": "DUTCHESS"
+  },
+  {
+    "agencyId": "13081",
+    "agencyName": "POUGHKEEPSIE TOWN PD POUGHKEEPSIE",
+    "county": "DUTCHESS"
+  },
+  {
+    "agencyId": "13083",
+    "agencyName": "HYDE PARK TOWN PD HYDE PARK",
+    "county": "DUTCHESS"
+  },
+  {
+    "agencyId": "13084",
+    "agencyName": "EAST FISHKILL TOWN PD HOPEWELL JUNCTION",
+    "county": "DUTCHESS"
+  },
+  {
+    "agencyId": "13088",
+    "agencyName": "BUFFALO CITY PD BUFFALO",
+    "county": "ERIE"
+  },
+  {
+    "agencyId": "13091",
+    "agencyName": "KENMORE VILLAGE PD BUFFALO",
+    "county": "ERIE"
+  },
+  {
+    "agencyId": "13132",
+    "agencyName": "GLOVERSVILLE CITY PD GLOVERSVILLE",
+    "county": "FULTON"
+  },
+  {
+    "agencyId": "13133",
+    "agencyName": "JOHNSTOWN CITY PD JOHNSTOWN",
+    "county": "FULTON"
+  },
+  {
+    "agencyId": "13136",
+    "agencyName": "GENESEE CO SHERIFF'S DEPARTMENT BATAVIA",
+    "county": "GENESEE"
+  },
+  {
+    "agencyId": "13137",
+    "agencyName": "BATAVIA CITY PD BATAVIA",
+    "county": "GENESEE"
+  },
+  {
+    "agencyId": "13138",
+    "agencyName": "LEROY VILLAGE PD LEROY",
+    "county": "GENESEE"
+  },
+  {
+    "agencyId": "13154",
+    "agencyName": "ILION VILLAGE PD ILION",
+    "county": "HERKIMER"
+  },
+  {
+    "agencyId": "13162",
+    "agencyName": "JEFFERSON CO SHERIFF'S DEPARTMENT WATERTOWN",
+    "county": "JEFFERSON"
+  },
+  {
+    "agencyId": "13163",
+    "agencyName": "WATERTOWN CITY PD WATERTOWN",
+    "county": "JEFFERSON"
+  },
+  {
+    "agencyId": "13184",
+    "agencyName": "LEWIS CO SHERIFF'S DEPARTMENT LOWVILLE",
+    "county": "LEWIS"
+  },
+  {
+    "agencyId": "13190",
+    "agencyName": "LIVINGSTON CO SHERIFF'S DEPARTMENT GENESEO",
+    "county": "LIVINGSTON"
+  },
+  {
+    "agencyId": "13205",
+    "agencyName": "MONROE CO SHERIFF'S DEPARTMENT ROCHESTER",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13206",
+    "agencyName": "ROCHESTER CITY PD ROCHESTER",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13207",
+    "agencyName": "IRONDEQUOIT TOWN PD ROCHESTER",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13209",
+    "agencyName": "EAST ROCHESTER VILLAGE PD EAST ROCHESTER",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13210",
+    "agencyName": "FAIRPORT VILLAGE PD FAIRPORT",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13211",
+    "agencyName": "BROCKPORT VILLAGE PD BROCKPORT",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13212",
+    "agencyName": "BRIGHTON TOWN PD ROCHESTER",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13213",
+    "agencyName": "GATES TOWN PD ROCHESTER",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13214",
+    "agencyName": "GREECE TOWN PD ROCHESTER",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13215",
+    "agencyName": "OGDEN TOWN PD SPENCERPORT",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13216",
+    "agencyName": "WEBSTER TOWN PD WEBSTER",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13218",
+    "agencyName": "MONTGOMERY CO SHERIFF'S DEPARTMENT FONDA",
+    "county": "MONTGOMERY"
+  },
+  {
+    "agencyId": "13227",
+    "agencyName": "FREEPORT VILLAGE PD FREEPORT",
+    "county": "NASSAU"
+  },
+  {
+    "agencyId": "13229",
+    "agencyName": "HEMPSTEAD VILLAGE PD HEMPSTEAD",
+    "county": "NASSAU"
+  },
+  {
+    "agencyId": "13261",
+    "agencyName": "OLD WESTBURY VILLAGE PD OLD WESTBURY",
+    "county": "NASSAU"
+  },
+  {
+    "agencyId": "13279",
+    "agencyName": "NIAGARA CO SHERIFF'S DEPARTMENT LOCKPORT",
+    "county": "NIAGARA"
+  },
+  {
+    "agencyId": "13281",
+    "agencyName": "NIAGARA FALLS CITY PD NIAGARA FALLS",
+    "county": "NIAGARA"
+  },
+  {
+    "agencyId": "13282",
+    "agencyName": "NORTH TONAWANDA CITY PD NORTH TONAWANDA",
+    "county": "NIAGARA"
+  },
+  {
+    "agencyId": "13285",
+    "agencyName": "YOUNGSTOWN VILLAGE PD YOUNGSTOWN",
+    "county": "NIAGARA"
+  },
+  {
+    "agencyId": "13286",
+    "agencyName": "LEWISTON POLICE DEPARTMENT",
+    "county": "NIAGARA"
+  },
+  {
+    "agencyId": "13287",
+    "agencyName": "NIAGARA TOWN PD NIAGARA FALLS",
+    "county": "NIAGARA"
+  },
+  {
+    "agencyId": "13289",
+    "agencyName": "ONEIDA CO SHERIFF'S DEPARTMENT ORISKANY",
+    "county": "ONEIDA"
+  },
+  {
+    "agencyId": "13290",
+    "agencyName": "ROME CITY PD ROME",
+    "county": "ONEIDA"
+  },
+  {
+    "agencyId": "13291",
+    "agencyName": "UTICA CITY PD UTICA",
+    "county": "ONEIDA"
+  },
+  {
+    "agencyId": "13294",
+    "agencyName": "SHERRILL CITY PD SHERRILL",
+    "county": "ONEIDA"
+  },
+  {
+    "agencyId": "13303",
+    "agencyName": "NEW HARTFORD TOWN PD NEW HARTFORD",
+    "county": "ONEIDA"
+  },
+  {
+    "agencyId": "13335",
+    "agencyName": "MIDDLETOWN CITY PD MIDDLETOWN",
+    "county": "ORANGE"
+  },
+  {
+    "agencyId": "13338",
+    "agencyName": "CHESTER VILLAGE PD CHESTER",
+    "county": "ORANGE"
+  },
+  {
+    "agencyId": "13344",
+    "agencyName": "WALDEN VILLAGE PD WALDEN",
+    "county": "ORANGE"
+  },
+  {
+    "agencyId": "13346",
+    "agencyName": "MAYBROOK VILLAGE PD MAYBROOK",
+    "county": "ORANGE"
+  },
+  {
+    "agencyId": "13347",
+    "agencyName": "GREENWOOD LAKE VILLAGE PD GREENWOOD LAKE",
+    "county": "ORANGE"
+  },
+  {
+    "agencyId": "13349",
+    "agencyName": "PORT JERVIS CITY PD PORT JERVIS",
+    "county": "ORANGE"
+  },
+  {
+    "agencyId": "13360",
+    "agencyName": "DEERPARK TOWN PD HUGUENOT",
+    "county": "ORANGE"
+  },
+  {
+    "agencyId": "13367",
+    "agencyName": "TOWN OF GOSHEN POLICE DEPARTMENT GOSHEN",
+    "county": "ORANGE"
+  },
+  {
+    "agencyId": "13374",
+    "agencyName": "OSWEGO CO SHERIFF'S DEPARTMENT OSWEGO",
+    "county": "OSWEGO"
+  },
+  {
+    "agencyId": "13376",
+    "agencyName": "OSWEGO CITY PD OSWEGO",
+    "county": "OSWEGO"
+  },
+  {
+    "agencyId": "13384",
+    "agencyName": "OTSEGO CO SHERIFF'S DEPARTMENT COOPERSTOWN",
+    "county": "OTSEGO"
+  },
+  {
+    "agencyId": "13385",
+    "agencyName": "ONEONTA CITY PD ONEONTA",
+    "county": "OTSEGO"
+  },
+  {
+    "agencyId": "13396",
+    "agencyName": "CARMEL TOWN PD CARMEL",
+    "county": "PUTNAM"
+  },
+  {
+    "agencyId": "13419",
+    "agencyName": "ROCKLAND CO SHERIFF'S DEPT",
+    "county": "ROCKLAND"
+  },
+  {
+    "agencyId": "13425",
+    "agencyName": "PIERMONT VILLAGE PD PIERMONT",
+    "county": "ROCKLAND"
+  },
+  {
+    "agencyId": "13427",
+    "agencyName": "SPRING VALLEY VILLAGE PD SPRING VALLEY",
+    "county": "ROCKLAND"
+  },
+  {
+    "agencyId": "13428",
+    "agencyName": "SUFFERN VILLAGE PD SUFFERN",
+    "county": "ROCKLAND"
+  },
+  {
+    "agencyId": "13430",
+    "agencyName": "CLARKSTOWN TOWN PD NEW CITY",
+    "county": "ROCKLAND"
+  },
+  {
+    "agencyId": "13431",
+    "agencyName": "HAVERSTRAW TOWN PD MOUNT IVY",
+    "county": "ROCKLAND"
+  },
+  {
+    "agencyId": "13432",
+    "agencyName": "ORANGETOWN TOWN PD ORANGEBURG",
+    "county": "ROCKLAND"
+  },
+  {
+    "agencyId": "13434",
+    "agencyName": "STONY POINT TOWN PD STONY POINT",
+    "county": "ROCKLAND"
+  },
+  {
+    "agencyId": "13437",
+    "agencyName": "ST LAWRENCE CO SHERIFF'S DEPARTMENT CANTON",
+    "county": "ST LAWRENCE"
+  },
+  {
+    "agencyId": "13438",
+    "agencyName": "OGDENSBURG CITY PD OGDENSBURG",
+    "county": "ST LAWRENCE"
+  },
+  {
+    "agencyId": "13439",
+    "agencyName": "MASSENA VILLAGE PD MASSENA",
+    "county": "ST LAWRENCE"
+  },
+  {
+    "agencyId": "13440",
+    "agencyName": "CANTON VILLAGE PD CANTON",
+    "county": "ST LAWRENCE"
+  },
+  {
+    "agencyId": "13441",
+    "agencyName": "GOUVERNEUR VILLAGE PD GOUVERNEUR",
+    "county": "ST LAWRENCE"
+  },
+  {
+    "agencyId": "13443",
+    "agencyName": "POTSDAM VILLAGE PD POTSDAM",
+    "county": "ST LAWRENCE"
+  },
+  {
+    "agencyId": "13446",
+    "agencyName": "SARATOGA CO SHERIFF'S DEPARTMENT BALLSTON SPA",
+    "county": "SARATOGA"
+  },
+  {
+    "agencyId": "13460",
+    "agencyName": "SCHENECTADY CITY PD SCHENECTADY",
+    "county": "SCHENECTADY"
+  },
+  {
+    "agencyId": "13464",
+    "agencyName": "ROTTERDAM TOWN PD SCHENECTADY",
+    "county": "SCHENECTADY"
+  },
+  {
+    "agencyId": "13465",
+    "agencyName": "SCHOHARIE CO SHERIFF'S DEPARTMENT SCHOHARIE",
+    "county": "SCHOHARIE"
+  },
+  {
+    "agencyId": "13471",
+    "agencyName": "SCHUYLER CO SHERIFF'S DEPARTMENT WATKINS GLEN",
+    "county": "SCHUYLER"
+  },
+  {
+    "agencyId": "13473",
+    "agencyName": "SENECA CO SHERIFF'S DEPARTMENT WATERLOO",
+    "county": "SENECA"
+  },
+  {
+    "agencyId": "13475",
+    "agencyName": "WATERLOO VILLAGE PD WATERLOO",
+    "county": "SENECA"
+  },
+  {
+    "agencyId": "13478",
+    "agencyName": "STEUBEN CO SHERIFF'S DEPARTMENT BATH",
+    "county": "STEUBEN"
+  },
+  {
+    "agencyId": "13526",
+    "agencyName": "SOUTHOLD TOWN PD PECONIC",
+    "county": "SUFFOLK"
+  },
+  {
+    "agencyId": "13538",
+    "agencyName": "TIOGA CO SHERIFF'S DEPARTMENT OWEGO",
+    "county": "TIOGA"
+  },
+  {
+    "agencyId": "13539",
+    "agencyName": "WAVERLY VILLAGE PD WAVERLY",
+    "county": "TIOGA"
+  },
+  {
+    "agencyId": "13553",
+    "agencyName": "ULSTER CO SHERIFF'S DEPARTMENT KINGSTON",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13556",
+    "agencyName": "ULSTER REG GNG ENF NARC T",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13560",
+    "agencyName": "NEW PALTZ TOWN PD NEW PALTZ",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13561",
+    "agencyName": "LLOYD TOWN PD HIGHLAND",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13562",
+    "agencyName": "MARLBOROUGH TOWN PD MILTON",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13564",
+    "agencyName": "PLATTEKILL TOWN PD MODENA",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13565",
+    "agencyName": "WOODSTOCK TOWN PD WOODSTOCK",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13566",
+    "agencyName": "SAUGERTIES TOWN PD SAUGERTIES",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13567",
+    "agencyName": "SHANDAKEN TOWN PD SHANDAKEN",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13568",
+    "agencyName": "ROSENDALE VILLAGE PD ROSENDALE",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13569",
+    "agencyName": "ULSTER TOWN POLICE DEPARTMENT",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13573",
+    "agencyName": "SHAWANGUNK TOWN PD WALLKILL",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "13574",
+    "agencyName": "WARREN CO SHERIFF'S DEPARTMENT LAKE GEORGE",
+    "county": "WARREN"
+  },
+  {
+    "agencyId": "13575",
+    "agencyName": "GLENS FALLS CITY PD GLENS FALLS",
+    "county": "WARREN"
+  },
+  {
+    "agencyId": "13581",
+    "agencyName": "WASHINGTON CO SHERIFF'S DEPARTMENT",
+    "county": "WASHINGTON"
+  },
+  {
+    "agencyId": "13605",
+    "agencyName": "NEW ROCHELLE CITY PD NEW ROCHELLE",
+    "county": "WESTCHESTER"
+  },
+  {
+    "agencyId": "13608",
+    "agencyName": "YONKERS CITY PD YONKERS",
+    "county": "WESTCHESTER"
+  },
+  {
+    "agencyId": "13611",
+    "agencyName": "SCARSDALE VILLAGE PD SCARSDALE",
+    "county": "WESTCHESTER"
+  },
+  {
+    "agencyId": "13621",
+    "agencyName": "TARRYTOWN VILLAGE PD TARRYTOWN",
+    "county": "WESTCHESTER"
+  },
+  {
+    "agencyId": "13631",
+    "agencyName": "BEDFORD TOWN PD BEDFORD",
+    "county": "WESTCHESTER"
+  },
+  {
+    "agencyId": "13633",
+    "agencyName": "GREENBURGH TOWN PD WHITE PLAINS",
+    "county": "WESTCHESTER"
+  },
+  {
+    "agencyId": "13641",
+    "agencyName": "YORKTOWN TOWN PD YORKTOWN HEIGHTS",
+    "county": "WESTCHESTER"
+  },
+  {
+    "agencyId": "13647",
+    "agencyName": "WYOMING CO SHERIFF'S DEPARTMENT WARSAW",
+    "county": "WYOMING"
+  },
+  {
+    "agencyId": "13648",
+    "agencyName": "ARCADE VILLAGE PD ARCADE",
+    "county": "WYOMING"
+  },
+  {
+    "agencyId": "13653",
+    "agencyName": "YATES CO SHERIFF'S DEPARTMENT PENN YAN",
+    "county": "YATES"
+  },
+  {
+    "agencyId": "13670",
+    "agencyName": "SUNY COLLEGE: FREDONIA",
+    "county": "CHAUTAUQUA"
+  },
+  {
+    "agencyId": "13675",
+    "agencyName": "SUNY: BUFFALO",
+    "county": "ERIE"
+  },
+  {
+    "agencyId": "13676",
+    "agencyName": "SUNY COLLEGE: BUFFALO",
+    "county": "ERIE"
+  },
+  {
+    "agencyId": "13678",
+    "agencyName": "SUNY COLLEGE: GENESEO",
+    "county": "LIVINGSTON"
+  },
+  {
+    "agencyId": "13679",
+    "agencyName": "SUNY A&T COL:MORRISVILLE",
+    "county": "MADISON"
+  },
+  {
+    "agencyId": "13680",
+    "agencyName": "SUNY COLLEGE: BROCKPORT",
+    "county": "MONROE"
+  },
+  {
+    "agencyId": "13682",
+    "agencyName": "SUNY COLLEGE: OPTOMETRY",
+    "county": "NEW YORK"
+  },
+  {
+    "agencyId": "13683",
+    "agencyName": "SUNY COLLEGE: UTICA-ROME",
+    "county": "ONEIDA"
+  },
+  {
+    "agencyId": "13687",
+    "agencyName": "SUNY COLLEGE: OSWEGO",
+    "county": "OSWEGO"
+  },
+  {
+    "agencyId": "13693",
+    "agencyName": "SUNY A&T COL:FARMINGDALE",
+    "county": "SUFFOLK"
+  },
+  {
+    "agencyId": "13694",
+    "agencyName": "SUNY: STONY BROOK",
+    "county": "SUFFOLK"
+  },
+  {
+    "agencyId": "13695",
+    "agencyName": "CORNELL UNIV POLICE 911 CENTER",
+    "county": "TOMPKINS"
+  },
+  {
+    "agencyId": "13697",
+    "agencyName": "SUNY COLLEGE: NEW PALTZ",
+    "county": "ULSTER"
+  },
+  {
+    "agencyId": "14057",
+    "agencyName": "ONEIDA INDIAN NATION POLICE DEPARTMENT",
+    "county": "NOT SPECIFIED"
+  },
+  {
+    "agencyId": "14058",
+    "agencyName": "ST REGIS TRIBAL POLICE DEPARTMENT",
+    "county": "NOT SPECIFIED"
+  },
+  {
+    "agencyId": "23153",
+    "agencyName": "SENECA FALLS TOWN",
+    "county": "SENECA"
+  },
+  {
+    "agencyId": "29174",
+    "agencyName": "null",
+    "county": "NIAGARA"
+  }
+]

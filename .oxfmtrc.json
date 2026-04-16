@@ -1,8 +1,14 @@
 {
   "$schema": "./node_modules/oxfmt/configuration_schema.json",
-  "ignorePatterns": [".next/**", "out/**", "build/**", "next-env.d.ts", "data/**"],
+  "ignorePatterns": [
+    ".next/**",
+    ".pnpm-store/**",
+    "next-env.d.ts",
+    "src/data/**",
+    "public/datasets/**"
+  ],
   "sortTailwindcss": {
-    "stylesheet": "app/globals.css",
+    "stylesheet": "src/app/globals.css",
     "functions": ["cn"]
   }
 }
