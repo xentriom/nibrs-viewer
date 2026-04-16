@@ -1,14 +1,15 @@
 export const ZERO_FILL = "#2c2c2e";
 
-const RAMP_HUE = 166;
-const RAMP_SAT = { min: 30, max: 56 };
-const RAMP_LUM = { min: 18, max: 48 };
+// Match the app theme's --primary hue
+const RAMP_HUE = 264;
+const RAMP_CHROMA = { min: 0.06, max: 0.24 };
+const RAMP_LIGHTNESS = { min: 0.28, max: 0.72 };
 
 export function fillForPositiveFraction(t: number) {
   const u = Math.min(1, Math.max(0, t));
-  const s = RAMP_SAT.min + u * (RAMP_SAT.max - RAMP_SAT.min);
-  const l = RAMP_LUM.min + u * (RAMP_LUM.max - RAMP_LUM.min);
-  return `hsl(${RAMP_HUE} ${Math.round(s)}% ${Math.round(l)}%)`;
+  const c = RAMP_CHROMA.min + u * (RAMP_CHROMA.max - RAMP_CHROMA.min);
+  const l = RAMP_LIGHTNESS.min + u * (RAMP_LIGHTNESS.max - RAMP_LIGHTNESS.min);
+  return `oklch(${l.toFixed(3)} ${c.toFixed(3)} ${RAMP_HUE})`;
 }
 
 export function fillForCount(count: number, maxPositive: number) {
