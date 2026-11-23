@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { NuqsAdapter } from "nuqs/adapters/next/app";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -27,6 +28,7 @@ export default function RootLayout({
     <html lang="en" className="dark">
       <body className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}>
         <NuqsAdapter>{children}</NuqsAdapter>
+        <Analytics />
       </body>
     </html>
   );
